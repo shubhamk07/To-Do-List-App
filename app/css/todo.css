@@ -1,7 +1,7 @@
 body{
 	margin-left: 10%;
 	font-family: 'Lato', sans-serif;
-	background-color: #E4F5F7   ;
+	background-color: #ECFAFC   ;
 
 }
 u{
@@ -44,11 +44,12 @@ li{
 }
 .info{
 	display: block;
-	background-color: #8992ED;
+	background-color: #ffffcc;
+	border-left: 8px solid #ffeb3b;
 	padding:0.5%;
 	word-spacing:0.2em;
 	line-height: 1.8;
-	color:white;
+	color:black;
 	width:60%;
 	font-size: 25px;
 	padding-left: 2%;
